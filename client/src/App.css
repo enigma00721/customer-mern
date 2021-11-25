@@ -1,0 +1,14 @@
+.App {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body {
+  background-color: white;
+}
+
+/* .actionIcon {
+  display: flex;
+  align-items: center;
+} */
